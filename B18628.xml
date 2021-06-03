@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the antient hackney-coachmen and such coachmen as have been sufferers for his late Majesty, and his Majesty that now is, and the widows of them, humbly presented to the honourable House of Commons;</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18628</idno><idno type="EEBO-CITATION">99832241</idno>
+  <idno type="VID">198949</idno>
+  <idno type="EEBO-PROQUEST">2240891309</idno>
+  
+            <idno type="STC">Wing C1011</idno>
+            <idno type="PROQUEST">99832241</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832241e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18628)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 198949)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 21242:148)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the antient hackney-coachmen and such coachmen as have been sufferers for his late Majesty, and his Majesty that now is, and the widows of them, humbly presented to the honourable House of Commons;</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1676]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Copy has faded text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament. --  House of Commons --  Early works to 1800.</term>
+               <term type="topical_term">Coach drivers --  England --  Early works to 1800.</term>
+               <term type="topical_term">Urban transportation --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Carriages and carts --  Licenses --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="appeal">
+            <pb facs="tcp:198949:1"/>
+            <head>THE CASE OF THE Antient Hackney-Coachmen, And such <hi>Coachmen</hi> as have been Sufferers for his <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>are Majesty, and his Majesty that now is, and the Widows of them, Humbly Presented to the Honourable House of Commons;</head>
+            <p>THE Kings Majesty, by an Act of this present Parliament, is graciously pleased to Enact, that 400. <hi>Hack<g ref="char:EOLhyphen"/>ney-Coaches</hi> should be Licenced, and each of them to pay the yearly Rent of 5 <hi>l.</hi> and no more; By which said Act it was Ordained, That the Commissioners for the <hi>Hackney-Coaches,</hi> should take an especial care, in the first place, to Licence antient <hi>Hackney-Coachmen,</hi> and such <hi>Coachmen</hi> as have been Sufferers for their service and affections to his late Majesty, or his Majesty that now is; or the Widowes of them that have <hi>Coaches</hi> of their own.</p>
+            <p>Upon the Licencing of the 400. <hi>Hackney-Coaches,</hi> in pursuance of the said Act, the then Commissioners for the <hi>Coaches,</hi> did make an Order, and accordingly suffer their Clerk (in their presence) to exact, and take 10 <hi>s.</hi> of each <hi>Coachman</hi> for his Licence; and soon after made another Order, for <hi>James Spelman,</hi> the Clerk's Assistant, to take 2 <hi>s.</hi> 6 <hi>d.</hi> of each <hi>Coachman,</hi> for a new-invented Mark.</p>
+            <p>In <hi>March</hi> following, some of the <hi>Coachmen</hi> made a Complaint in Parliament, of the last mentioned, and other ex<g ref="char:EOLhyphen"/>acted Moneys; all which were adjudged Grievances, and several Offenders ordered to be Indicted, by the Votes of the House of Commons, of the 30th. of <hi>March</hi> 1663.</p>
+            <p>In <hi>December</hi> following, new Commissioners being appointed, summon the <hi>Coachmen</hi> to take new Licences; at which time, according to their pre-intention, they grant Licences to divers other Persons, to drive, with the Figures belonging to several Licenced <hi>Coachmen</hi> (especially those that had sollicited the above-mentioned Complaints against them, and their Officers) thereby intending to take away their Licences, and Livelyhoods, which is humbly conceived, was intended them, by the Parliament, as a Privilege and Gratuity (without Oppressi<g ref="char:EOLhyphen"/>on or infringement) for their service and sufferings.</p>
+            <p>Ever since that time the streets have been thronged with a multitude of <hi>Coaches,</hi> by reason many un-licenced <hi>Coachmen</hi> have thereby taken liberty, and do drive without contradiction, to the great Impoverishment of the Li<g ref="char:EOLhyphen"/>cenced <hi>Coachmen.</hi>
+            </p>
+            <p>The Commissioners, the last Session of Parliament, endeavoured to have an Act pass in the House of Commons to create them such a power as they had already exercised beyond their Authority, but for just reasons then offered they were frustrated.</p>
+            <p>The Commissioners, this present Session of Parliament, have obtained a Bill to pass in the House of Lords to their desired purpose, whereby they have power from time to time to grant such, and so many Licences (not exceeding 400. at one time) and for so long time as they shall think fit. To summon, and upon Oath to Convict Offenders, and to punish them by Fines, as they shall think fit, not exceeding 40 <hi>s.</hi> And in relati<g ref="char:EOLhyphen"/>on to <hi>Hackney-Coaches,</hi> to have a full and ample power to examine, and punish in such manner as the Commissioners have power for the Streets and High-wayes, only leaving any person or persons agrieved, to be relieved in the Exchequer, according to Equity and Justice.</p>
+            <p>It is humbly conceived, the Parliament did not intend by their first Act to leave Antient <hi>Hackney-Coachmen</hi> and Sufferers to the Commissioners upon any small distast, at their will and pleasure, to put them out of their Lively<g ref="char:EOLhyphen"/>hoods (as they have done) being rightly qualified and Licensed, and thereupon have straightned themselves, and their Friends, in obtaining Leases of Habitations convenient for Coach-Houses, Stables, and sufficient Coaches &amp; Horses; all which (if suppress'd in their Occupations) are little worth; and themselves, Wives and Families, left in a miserable Condition; having no other way upon the Earth whereby to get Bread. And if the Parliament shall think fit to grant the Commissioners this large Power, there is no doubt, by the instigation of their selfish Officers, it will be exceeded, as the former was; and the Parliament (as hitherto) at every Session, troubled with Complaints, to the hinderance of greater Affairs. And if the Commissioners shall have Power to punish Offenders, as they shall think fit, <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. <hi>Partiality</hi> will alwayes attend them, as hath been all along experienced, without any such Power: And in the mean time, whilst any poor man (not in favour with the Commissioners Officers, lyes under their rigour and oppression) is prosecuting his Appeal, for relief in the Exchequer, must perhaps beg his Food, or run away (as hath happened to divers) the Commissioners having declared, they have 2000 <hi>l.</hi> a Year, to wage Law with the <hi>Coachmen.</hi>
+            </p>
+            <p>It may be Objected, <hi>The</hi> Coachmen <hi>are abusive to Gentlemen;</hi> Which may be admitted: But the civil <hi>Coachmen</hi> only suffer for such; being most of them civil House-keepers, and responsible for any Abuse; those Abuses being com<g ref="char:EOLhyphen"/>mitted only by the Servants and Drivers for some of them, of which their Masters are innocent; and will sometimes happen, unless the <hi>Coachmen</hi> have some Government, by, and among themselves, not to employ such, under a Pe<g ref="char:EOLhyphen"/>nalty; Which Regulation can never be expected from the Commissioners. For remedy of all which,</p>
+            <p>
+               <hi>It is humbly propounded, That the Power of the Commissioners may be transferred to the Government of the City of</hi> London, <hi>with Power, from time to time, to make and publish such necessary By-Laws, as the Lord Mayor, and Court of Aldermen, shall think fit; being Commissioners named, to all intents and purposes, in the first Act; where the</hi> Coachmen <hi>can assure themselves to have their Complaints heard, and redressed: and do expect nothing but just Punishment for Offences, without partiality or favour; which they most desire to sub<g ref="char:EOLhyphen"/>mit unto; a great number of the</hi> Coachmen <hi>being Freemen, and Inhabitants within the City.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
